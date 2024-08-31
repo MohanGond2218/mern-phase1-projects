@@ -19,7 +19,7 @@ console.log(`Concatenated String: ${singleQuotesString.concat(doubleQuotesString
 
 console.log('indexof H',myStringObj.indexOf("H"));
 
-console.log('last Index OF',myStringObj.lastIndexOf('H'));
+console.log('last Index OF',myStringObj.lastIndexOf('new'));
 
 
 
